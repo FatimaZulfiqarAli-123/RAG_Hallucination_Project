@@ -1,4 +1,4 @@
-# 🧠 Reducing Hallucinations in Retrieval-Augmented Question Answering Systems
+#  Reducing Hallucinations in Retrieval-Augmented Question Answering Systems
 
 ## 📌 Project Overview
 
